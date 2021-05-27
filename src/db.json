@@ -150,6 +150,29 @@
       "issuer_id": "matthew",
       "certificate": "aaa",
       "id": 6
+    },
+    {
+      "ID": "100000001",
+      "issuer_id": "matthew",
+      "revoked": true,
+      "id": 7
+    },
+    {
+      "ID": "100000001",
+      "issuer_id": "fred",
+      "revoked": true,
+      "id": 8
+    },
+    {
+      "ID": "100000001",
+      "requester_id": "fred",
+      "revoked": true,
+      "id": 9
+    },
+    {
+      "id": "100000001",
+      "issuer_id": "matthew",
+      "revoked": true
     }
   ]
 }
