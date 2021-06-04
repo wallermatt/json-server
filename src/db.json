@@ -45,48 +45,6 @@
       "requester_id": "dan",
       "id": 27,
       "owner_address": "2222xxxxx"
-    },
-    {
-      "id": 28
-    },
-    {
-      "id": 29
-    },
-    {
-      "id": 30
-    },
-    {
-      "id": 31
-    },
-    {
-      "id": 32
-    },
-    {
-      "id": 33
-    },
-    {
-      "id": 34
-    },
-    {
-      "id": 35
-    },
-    {
-      "id": 36
-    },
-    {
-      "id": 37
-    },
-    {
-      "id": 38
-    },
-    {
-      "id": 39
-    },
-    {
-      "id": 40
-    },
-    {
-      "id": 41
     }
   ],
   "certificate": [
@@ -148,6 +106,12 @@
       "id": "100000001",
       "issuer_id": "matthew",
       "revoked": true
+    },
+    {
+      "csr_id": "27",
+      "issuer_id": "matthew",
+      "certificate": "newcert----------",
+      "id": "HBU1uTa"
     }
   ]
 }
