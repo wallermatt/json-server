@@ -3,5 +3,6 @@
     "/create-certificate/": "/certificate/",
     "/revoke/:id": "/certificate/:id",
     "/validate/:id": "/certificate/:id",
-    "/fetch-csrs/": "/CSR/"
+    "/fetch-csrs/": "/CSR/",
+    "/fetch-certificates/": "/certificate/"
 }

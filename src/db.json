@@ -49,69 +49,26 @@
   ],
   "certificate": [
     {
-      "id": 1,
-      "csrid": 1,
-      "issuer_id": "matthew",
-      "certificate": "---cert---"
-    },
-    {
-      "csrid": "100000001",
-      "issuer_id": "matthew",
-      "certificate": "aaaaa",
-      "id": 2
-    },
-    {
-      "csrid": "100000001",
-      "issuer_id": "matthew",
-      "certificate": "test",
-      "id": 3
-    },
-    {
-      "csrid": "100000001",
-      "issuer_id": "matthew",
-      "certificate": "a",
-      "id": 4
-    },
-    {
-      "csrid": "100000001",
-      "issuer_id": "matthew",
-      "certificate": "aaa",
-      "id": 5
-    },
-    {
-      "csrid": "100000001",
-      "issuer_id": "matthew",
-      "certificate": "aaa",
-      "id": 6
-    },
-    {
-      "ID": "100000001",
-      "issuer_id": "matthew",
-      "revoked": true,
-      "id": 7
-    },
-    {
-      "ID": "100000001",
-      "issuer_id": "fred",
-      "revoked": true,
-      "id": 8
-    },
-    {
-      "ID": "100000001",
-      "requester_id": "fred",
-      "revoked": true,
-      "id": 9
-    },
-    {
       "id": "100000001",
-      "issuer_id": "matthew",
-      "revoked": true
+      "csr_id": "26",
+      "requester_id": "nickp",
+      "issuer_id": "danc",
+      "owner_address": "MIICXAIBAAKBgQCqGKukO1De7zhZj6",
+      "certificate": "---BEGIN CERT---XXY...",
+      "date_issued": "2021-05-10",
+      "date_expired": "2021-12-31",
+      "revoked": "false"
     },
     {
+      "id": "100000002",
       "csr_id": "27",
-      "issuer_id": "matthew",
-      "certificate": "newcert----------",
-      "id": "HBU1uTa"
+      "requester_id": "matthew",
+      "issuer_id": "danc",
+      "owner_address": "MIICXAIBAAKBgQCqGKukO1De7zhZj6",
+      "certificate": "---BEGIN CERT---XXY...",
+      "date_issued": "2021-05-10",
+      "date_expired": "2021-12-31",
+      "revoked": "true"
     }
   ]
 }
